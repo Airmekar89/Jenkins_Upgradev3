@@ -1,0 +1,5 @@
+I am adding some content here. 
+I have configured my version control Git on my Local and establised connection to the remote repository "GitHub".
+I have been able to set my jenkins server with a "Master" "Slave" configuration using password authentication. 
+I have also been able to configure webhook on my source code repository "GitHub"with Jenkins and this ensures that jenkins is notified immediately there is code pushed to the repo it is monitoring.
+I have also configured Jenkins-maven integration for build of the artifacts.
